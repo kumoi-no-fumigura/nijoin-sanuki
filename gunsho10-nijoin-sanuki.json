@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/nijoin-sanuki",
  "yomi": "にじょういんのさぬきしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安末期〜鎌倉初期",
+  "author": "二条院讃岐",
+  "desc": "源頼政の娘で二条天皇に仕えた讃岐の家集。内裏の題詠や四季・恋の題詠を収め、新古今集などに入った歌を注記する。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -1173,6 +1178,6 @@
   "poems": 100,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
